@@ -1,0 +1,11 @@
+C:\recipe\recipe\bin\Debug\netcoreapp3.1\recipe.exe
+C:\recipe\recipe\bin\Debug\netcoreapp3.1\recipe.deps.json
+C:\recipe\recipe\bin\Debug\netcoreapp3.1\recipe.runtimeconfig.json
+C:\recipe\recipe\bin\Debug\netcoreapp3.1\recipe.runtimeconfig.dev.json
+C:\recipe\recipe\bin\Debug\netcoreapp3.1\recipe.dll
+C:\recipe\recipe\bin\Debug\netcoreapp3.1\recipe.pdb
+C:\recipe\recipe\obj\Debug\netcoreapp3.1\recipe.csprojAssemblyReference.cache
+C:\recipe\recipe\obj\Debug\netcoreapp3.1\recipe.AssemblyInfoInputs.cache
+C:\recipe\recipe\obj\Debug\netcoreapp3.1\recipe.AssemblyInfo.cs
+C:\recipe\recipe\obj\Debug\netcoreapp3.1\recipe.dll
+C:\recipe\recipe\obj\Debug\netcoreapp3.1\recipe.pdb
